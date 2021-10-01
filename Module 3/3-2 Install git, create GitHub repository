@@ -1,0 +1,5 @@
+# go to git scm and download the git bash
+# In command line write git --version
+# Terminal > Powershell > Set Default > Git bash> close 
+# Open terminal again
+# git commit -m"" > give email and username
